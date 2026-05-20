@@ -47,7 +47,7 @@ with st.sidebar:
     st.markdown("---")
     
     st.markdown("### 📚 Topics I Cover")
-    st.markdown("- **Machine Learning (ML)**")
+    st.markdown("- **Machine (ML)**")
     st.markdown("- **Deep Learning (DL)**")
     st.markdown("- **Artificial Intelligence (AI)**")
     st.markdown("- **Generative AI (Gen AI)**")

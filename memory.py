@@ -25,3 +25,4 @@ class ChatMemory:
     def clear(self):
 
         self.messages = []
+        
